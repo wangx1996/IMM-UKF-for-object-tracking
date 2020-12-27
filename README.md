@@ -1,7 +1,19 @@
 # IMM-UKF-for-object-tracking
 An simple implementation  of the IMM-UKF methods for object tracking state filter.
 
-#### Result
+### Requirments
+
+Eigen
+
+### Model
+
+#### CV
+
+#### CTRV
+
+#### CTRA
+
+### Result
 
 Test on KITTI tracking dataset
 
